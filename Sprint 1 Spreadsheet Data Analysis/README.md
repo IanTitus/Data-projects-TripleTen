@@ -55,3 +55,5 @@ The analysis was performed entirely within Google Sheets, leveraging its powerfu
 ##  Acknowledgments
 * Special thanks to  TripleTen for providing the dataset and rubric for this project, which is the beginning to an awesome journey.
 ---
+
+*Created by [Ian Titus](https://www.linkedin.com/in/ian-titus/)*
